@@ -302,6 +302,11 @@ column-gap:24px;
   margin-bottom: 16px;
 }
 
+.link-logo-footer {
+    display: inline-block;
+  margin-bottom: 16px;
+}
+
 .footer-text {
   font-weight: 400;
   font-size: 16px;
